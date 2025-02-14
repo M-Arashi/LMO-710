@@ -1,2 +1,2 @@
 
-[![Watch the video]https://youtu.be/Hq_73DJL58U](https://youtu.be/Hq_73DJL58U)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
