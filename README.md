@@ -7,7 +7,7 @@ Whether you are a student, researcher, or professional, this course will help yo
 ## Recommended Books
 For a deeper understanding of linear models, we recommend the following books:
 
-1. ** Linear Models by S. R. Searle**  
+1. **"Linear Models" by S. R. Searle**  
    [Available here](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118491782) - This book provides an in-depth theoretical treatment of linear models.
    
 2. **"Linear Models with R" by Julian J. Faraway**
