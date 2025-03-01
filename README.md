@@ -16,13 +16,10 @@ For a deeper understanding of linear models, we recommend the following books:
 ## Course Content
 This course covers the following topics:
 
-### 1. Matrix Algebra
 - System of Consistent equations
 - Generelized Inverse
--  Projections
--  Sum of Squares of Linear Sets
-
-### 2. Linear Regression Models
+- Projections
+- Sum of Squares of Linear Sets
 - Assumptions of linear regression
 - Model fitting and interpretation
 - Estimation
