@@ -2,7 +2,7 @@
 
 
 Video GI-A: 
-[![Watch the video]](https://youtu.be/Hq_73DJL58U)
+[Watch the video](https://youtu.be/Hq_73DJL58U)
 
 
 Video GI-B: 
