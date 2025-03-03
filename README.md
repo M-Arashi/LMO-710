@@ -13,8 +13,8 @@ For a deeper understanding of linear models, we recommend the following books:
 2. **"Linear Models with R" by Julian J. Faraway**
     [Available here](https://julianfaraway.github.io/faraway/LMR/) -  This book provides a practical introduction to linear models using R, making it accessible for both beginners and experienced statisticians.
 
-## Course Content
-This course covers the following topics:
+## Content
+This repository covers the following topics:
 
 - System of Consistent equations
 - Generelized Inverse
