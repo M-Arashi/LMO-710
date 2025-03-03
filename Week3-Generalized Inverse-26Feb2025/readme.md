@@ -2,7 +2,7 @@
 
 
 Video GI-A: 
-[![Watch the video](https://i9.ytimg.com/vi/Hq_73DJL58U/mqdefault.jpg?v=67afa17a&sqp=CNS59r0G&rs=AOn4CLDLD-GWNxFwgrRp-JhA0lyxnyI9LQ)](https://youtu.be/Hq_73DJL58U)
+[![Watch the video]](https://youtu.be/Hq_73DJL58U)
 
 
 Video GI-B: 
